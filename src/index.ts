@@ -15,7 +15,7 @@ import {
 // Initialize server
 const server = new Server({
   name: "mcp-guide",
-  version: "0.1.2",
+  version: "0.1.3",
   author: "qpd-v"
 }, {
   capabilities: {
