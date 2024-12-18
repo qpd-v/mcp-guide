@@ -1,4 +1,4 @@
-A list of Model Context Protocol (MCP) servers.
+A list of Model Context Protocol (MCP) servers generated autonomously by roo cline.
 
 Legend
 
@@ -38,6 +38,8 @@ Web content access and automation capabilities. Enables searching, scraping, and
     @kimtaeyoon83/mcp-server-youtube-transcript 📇 ☁️ - Fetch YouTube subtitles and transcripts for AI analysis
     @recursechat/mcp-server-apple-shortcuts 📇 🏠 🍎 - An MCP Server Integration with Apple Shortcuts
     @browserbasehq/mcp-stagehand 📇 ☁️ - Cloud browser automation capabilities using Stagehand
+    @browserbase/mcp-server-browserbase 📇 ☁️ - Browser automation and web interaction
+    @kimtth/mcp-aoai-web-browsing 🐍 ☁️ - Azure OpenAI and web browsing integration
 
 ☁️ Cloud Platforms
 
@@ -68,6 +70,8 @@ Integration with communication platforms for message management and channel oper
     @markuspfundstein/mcp-gsuite 🐍 ☁️ - Integration with Gmail and Google Calendar
     @vidhupv/x-mcp 📇 ☁️ - Create, manage and publish X/Twitter posts
     @enescinr/twitter-mcp 📇 ☁️ - Interact with Twitter API, post and search tweets
+    @markelaugust74/mcp-google-calendar 📇 ☁️ - Google Calendar event management
+    @hannesrudolph/imessage-query-fastmcp 🐍 🏠 🍎 - iMessage database access and search
 
 👤 Customer Data Platforms
 
@@ -97,6 +101,7 @@ Secure database access with schema inspection capabilities. Enables querying and
     @neo4j-contrib/mcp-neo4j 🐍 🏠 - Neo4j graph database integration
     @aekanun2020/mcp-server 📇 🏠 - MSSQL database integration with configurable access controls
     @isaacwasserman/mcp-snowflake-server 📇 ☁️ - Interact with Snowflake databases
+    @cyanheads/atlas-mcp-server 📇 ☁️ - Atlas database integration
 
 💻 Developer Tools
 
@@ -114,6 +119,10 @@ Tools and integrations that enhance the development workflow and environment man
     @rmrf2020/decision-mind 📇 🏠 - Decision making demo with client-server communication
     @vijayk-213/model-context-protocol 📇 🏠 - LLaMA model integration for summarization
     @justjoehere/mcp_gradio_client 📇 🏠 - Gradio integration for MCP clients
+    @ggoodman/mcp 🏎️ 🏠 - CLI tool and UI for managing MCP servers
+    @dabouelhassan/mcp-server-example-v2 🐍 🏠 - FastAPI-based MCP server example
+    @e2b-dev/mcp-server 📇 ☁️ - Code execution with E2B
+    @szeider/mcp-solver 🐍 🏠 - MiniZinc constraint solving capabilities
 
 🧮 Data Science Tools
 
@@ -130,6 +139,9 @@ Provides direct access to local file systems with configurable permissions. Enab
     @modelcontextprotocol/server-google-drive 📇 ☁️ - Google Drive integration for files
     @mark3labs/mcp-filesystem-server 🏎️ 🏠 - Golang implementation for local file system access
     @apeyroux/mcp-xmind 📇 🏠 - Read and search through XMind files
+    @isaacphi/mcp-gdrive 📇 ☁️ - Google Drive and Sheets integration
+    @RafalWilinski/mcp-apple-notes 🐍 🏠 🍎 - Apple Notes RAG integration
+    @kazuph/mcp-pocket 📇 ☁️ - Pocket saved articles integration
 
 💰 Finance & Fintech
 
@@ -138,6 +150,7 @@ Financial data access and cryptocurrency market information. Enables querying re
     @quantgeekdev/coincap-mcp 📇 ☁️ - Real-time cryptocurrency market data via CoinCap API
     @anjor/coinmarket-mcp-server 🐍 🏠 - Coinmarket API integration for crypto data
     @calvernaz/alphavantage 📇 ☁️ - Stock market data API integration with AlphaVantage
+    @sammcj/bybit-mcp 🐍 ☁️ - Bybit cryptocurrency exchange API access
 
 🧠 Knowledge & Memory
 
@@ -164,6 +177,9 @@ Access and analyze application monitoring data. Enables AI models to review erro
     @metoro-io/metoro-mcp-server 🎖️ 🏎️ ☁️ - Query Kubernetes environments monitored by Metoro
     @sunsetcoder/flightradar24-mcp-server 📇 ☁️ - Track flights using Flightradar24 data
     @tevonsb/homeassistant-mcp 📇 🏠 - Control and monitor Home Assistant devices
+    @ruchernchong/mcp-server-google-analytics 📇 ☁️ - Google Analytics data analysis
+    @macrat/mcp-ayd-server 🐍 🏠 - Ayd status monitoring service
+    @Sladey01/mcp-snyk 📇 ☁️ - Snyk security scanning integration
 
 🔎 Search
 
@@ -198,6 +214,7 @@ Interact with Git repositories and version control platforms. Enables repository
     @modelcontextprotocol/server-github 📇 ☁️ - GitHub API integration
     @modelcontextprotocol/server-gitlab 📇 ☁️ 🏠 - GitLab platform integration
     @modelcontextprotocol/server-git 🐍 🏠 - Direct Git repository operations
+    @block/goose-mcp 🏎️ ☁️ - GitHub operations and automation
 
 🔒 Security & Compliance
 
@@ -251,6 +268,13 @@ Security policy implementation and compliance monitoring for cloud services.
     @skydeckai/mcp-server-rememberizer 📇 ☁️ - Knowledge retrieval
     @navisbio/clinicaltrials-mcp 📇 ☁️ - ClinicalTrials.gov analysis
     @jimpick/fireproof-todo-mcp 📇 🏠 - Fireproof database todo list
+    @mikeskarl/mcp-prompt-templates 🐍 🏠 - Standardized analysis prompt templates
+    @ccabanillas/notion-mcp 🐍 ☁️ - Enhanced Notion API integration
+    @aliargun/mcp-server-gemini 🐍 ☁️ - Google Gemini AI models integration
+    @DMontgomery40/mcp-canvas-lms 📇 ☁️ - Canvas LMS course management
+    @dgormly/mcp-financial-advisor 🐍 ☁️ - Financial advisory and bookkeeping tools
+    @patruff/ollama-mcp-bridge 📇 🏠 - Ollama LLM integration bridge
+    @smithery-ai/mcp-obsidian 📇 🏠 - Enhanced Obsidian vault integration
 
 Frameworks
 
@@ -263,6 +287,7 @@ Frameworks
     @strowk/foxy-contexts 🏎️ - Declarative Golang library
     @wong2/litemcp ⚡️ - JavaScript/TypeScript framework
     @quantgeekdev/mcp-framework ⚡️ - TypeScript framework
+    @quarkiverse/quarkus-mcp-server 🏎️ - Quarkus framework MCP integration
 
 Clients
 
