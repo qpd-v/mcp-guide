@@ -31,12 +31,12 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/mcp-guide.git"
+    "url": "git+https://github.com/qpd-v/mcp-guide.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/mcp-guide/issues"
+    "url": "https://github.com/qpd-v/mcp-guide/issues"
   },
-  "homepage": "https://github.com/yourusername/mcp-guide#readme",
+  "homepage": "https://github.com/qpd-v/mcp-guide#readme",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^0.1.0"
   },
