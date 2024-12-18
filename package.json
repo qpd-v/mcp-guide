@@ -1,0 +1,50 @@
+{
+  "name": "mcp-guide",
+  "version": "0.1.0",
+  "description": "A beginner-friendly guide server that helps users understand MCP concepts, provides interactive examples, and demonstrates best practices for building MCP integrations.",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "prepare": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "mcp-guide": "./dist/index.js"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "mcp",
+    "guide",
+    "tutorial",
+    "documentation",
+    "model-context-protocol",
+    "ai",
+    "llm"
+  ],
+  "author": "qpd-v",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/mcp-guide.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/mcp-guide/issues"
+  },
+  "homepage": "https://github.com/yourusername/mcp-guide#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^0.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
