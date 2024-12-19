@@ -4,6 +4,8 @@ A beginner-friendly Model Context Protocol (MCP) server that helps users underst
 
 Author: qpd-v
 
+<a href="https://glama.ai/mcp/servers/3jsu6wpgzt"><img width="380" height="200" src="https://glama.ai/mcp/servers/3jsu6wpgzt/badge" alt="MCP-Guide MCP server" /></a>
+
 ## Features
 
 - 📚 **Concept Explanations**: Get clear, beginner-friendly explanations of MCP concepts like tools, resources, prompts, and more
