@@ -1,4 +1,4 @@
-# MCP Guide Server (v0.1.4)
+# MCP Guide Server (v0.1.5)
 
 A beginner-friendly Model Context Protocol (MCP) server that helps users understand MCP concepts, provides interactive examples, and lists available MCP servers. This server is designed to be a helpful companion for developers working with MCP.
 

@@ -1,6 +1,6 @@
 {
   "name": "mcp-guide",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A beginner-friendly guide server that helps users understand MCP concepts, provides interactive examples, and demonstrates best practices for building MCP integrations.",
   "main": "dist/index.js",
   "type": "module",

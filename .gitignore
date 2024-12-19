@@ -36,3 +36,4 @@ yarn-error.log*
 
 # Test coverage
 coverage/
+src/servers/serverstoadd.txt
